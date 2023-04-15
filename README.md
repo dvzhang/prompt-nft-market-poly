@@ -22,8 +22,6 @@ yarn hardhat deploy --network sepolia
 
 ```
 cd ..
-git clone https://github.com/PatrickAlphaC/graph-nft-marketplace-fcc
-cd graph-nft-marketplace-fcc
 yarn
 ```
 
