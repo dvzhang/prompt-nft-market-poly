@@ -1,6 +1,5 @@
 # NextJS NFT Marketplace with TheGraph
 
-*This repo has been updated for Sepolia over Goerli.*
 
 ## 1. Git clone the contracts repo
 
